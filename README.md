@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+04/08/2017
 
 ### Student Name:  
-(First and Last Name)
+Anna Rissinger
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+How to create an API to access movie information from a Web-based software application about movies. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://alf08f.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. The difference between Ajax and JSON.
+2. How an API works, and why it is criticle to web applications. 
+3. How Ajax retrieves and posts information on applications. 
